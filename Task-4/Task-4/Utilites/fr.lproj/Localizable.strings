@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Task-4
+
+  Created by Yaroslav Hrytsun on 25.12.2020.
+  
+*/
+"Player enthusiast"                 = "Joueur passionné";
+"Check Stats"                       = "Vérifier les statistiques";
+"Videos"                            = "Vidéos";
+"Hearts"                            = "Cœurs";
+"Games"                             = "Jeux";
+"Wins"                              = "Victoires";
+"Lorem ipsum text since Jan 2015"   = "Texte du Lorem ipsum depuis janvier 2015";
+
